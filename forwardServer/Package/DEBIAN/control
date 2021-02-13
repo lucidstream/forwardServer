@@ -1,0 +1,17 @@
+Package: lucid.forwardServer
+Name: forwardServer
+Version: 0.1-1
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate,preferenceloader
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: lucid
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
